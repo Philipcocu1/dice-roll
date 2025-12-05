@@ -1,0 +1,18 @@
+[package]
+name = "dice-roll"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+description = "CLI dice roller supporting RPG notation with statistics"
+
+[[bin]]
+name = "dice-roll"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+rand = "0.8"
+colored = "2.1"
+
+[dev-dependencies]
